@@ -6,7 +6,7 @@ A React + Vite e-commerce app for watches, ready to deploy on Vercel.
 
 - `frontend/` — React app (Vite + TypeScript + Tailwind)
 - `backend/db.json` — Local development database for json-server
-- `frontend/api/` — Vercel serverless API routes (used in production)
+- `api/` — Vercel serverless API routes (used in production)
 
 ## Local development
 
@@ -37,11 +37,8 @@ The app runs at `http://localhost:5173` and uses the API at `http://localhost:50
 
 1. Push this repo to GitHub.
 2. Go to [vercel.com](https://vercel.com) and import the repository.
-3. Set the **Root Directory** to `frontend`.
-4. Vercel will auto-detect Vite. Build settings:
-   - **Build Command:** `npm run build`
-   - **Output Directory:** `dist`
-5. Deploy.
+3. Leave **Root Directory** empty (use the repo root). Vercel reads `vercel.json` at the project root.
+4. Deploy — no extra settings needed.
 
 Production uses the serverless API at `/api` — no separate backend is needed.
 
