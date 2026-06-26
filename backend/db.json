@@ -1,0 +1,439 @@
+{
+  "users": [
+    {
+      "id": "b8bb",
+      "username": "shahd ahmed",
+      "password": "123456",
+      "email": "shahd.ahmed32143@gmail.com"
+    },
+    {
+      "id": "8e67",
+      "username": "ahmed gamal",
+      "password": "123457",
+      "email": "ahmed@gmail.com"
+    },
+    {
+      "id": "a519",
+      "username": "youssef",
+      "password": "123456",
+      "email": "youssef@gmail.com"
+    },
+    {
+      "id": "1712",
+      "username": "ahmed gamal",
+      "password": "123456",
+      "email": "ahmed@gmail.com"
+    },
+    {
+      "username": "jadedy",
+      "password": "Pa$$w0rd!",
+      "email": "mefakafumo@mailinator.com",
+      "id": "IJHH0-LMVzs"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Gold Ell Metal Watch",
+      "price": 600,
+      "oldPrice": 800,
+      "image": "https://miyoko-watches.com/cdn/shop/files/FullSizeRender_8d2059f4-d08e-40c6-8e2c-671237b58fb4_1024x1024@2x.jpg?v=1751536480",
+      "type": "Metal",
+      "bestSeller": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "2",
+      "name": "Gold Blossom Metal Watch",
+      "price": 1000,
+      "oldPrice": 1300,
+      "image": "https://miyoko-watches.com/cdn/shop/files/A3A33D9E-D396-49B3-870F-A9353E3B0277_360x.jpg?v=1756037439",
+      "type": "Metal",
+      "bestSeller": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "3",
+      "name": "Silver White Retro Metal Watch",
+      "price": 1500,
+      "oldPrice": 2000,
+      "image": "https://miyoko-watches.com/cdn/shop/files/DB214A4F-DAA5-4952-B385-72C9A61666D2_900x.jpg?v=1752704923",
+      "type": "Metal",
+      "bestSeller": true,
+      "paragraph": "Introducing the Silver Black Celva Metal Watch, a sleek and stylish timepiece for the fashion-forward individual. Made with high-quality Celva metal, this watch boasts durability and precision. Stay on time and on trend with this must-have accessory."
+    },
+    {
+      "id": "4",
+      "name": "Wine Red Mirage Leather Watch",
+      "price": 3000,
+      "oldPrice": 4000,
+      "image": "https://miyoko-watches.com/cdn/shop/files/C36D9C99-33F1-4554-85A3-AA28D71B66A1_360x.jpg?v=1748711955",
+      "type": "Leather",
+      "bestSeller": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "5",
+      "name": "Gold Elle Metal Watch",
+      "price": 600,
+      "oldPrice": 1000,
+      "image": "https://miyoko-watches.com/cdn/shop/files/4F5E6E3C-5423-4DF6-958A-C52B9900AD77_360x.jpg?v=1753362100",
+      "type": "Metal",
+      "bestSeller": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "6",
+      "name": "Gold White Retro Metal Watch",
+      "price": 1000,
+      "oldPrice": 1400,
+      "image": "https://miyoko-watches.com/cdn/shop/files/EEEC0683-2D83-4646-9C49-A8D70C58733B_900x.jpg?v=1755360054",
+      "type": "Metal",
+      "bestSeller": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "7",
+      "name": "Gold Elle Metal Watch",
+      "price": 600,
+      "oldPrice": 800,
+      "image": "https://miyoko-watches.com/cdn/shop/files/5497CEA3-F76A-43D3-A0E4-A10EEAB5C6C4_900x.jpg?v=1753362100",
+      "type": "Metal",
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "8",
+      "name": "Silver GENTIME Metal Watch",
+      "price": 1500,
+      "oldPrice": 2000,
+      "image": "https://miyoko-watches.com/cdn/shop/files/66F673F3-7412-4205-9495-BCB2E5206F72_360x.jpg?v=1745781002",
+      "type": "Metal",
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "9",
+      "name": "Havan Numeric Men Leather Watch",
+      "price": 1000,
+      "oldPrice": 1200,
+      "image": "https://miyoko-watches.com/cdn/shop/files/047CF63D-8411-4065-928C-9E42753F1E56_360x.jpg?v=1720104644",
+      "type": "Leather",
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "10",
+      "name": "Silver Green Girly Girl Metal Watch",
+      "price": 1500,
+      "oldPrice": 2000,
+      "image": "https://miyoko-watches.com/cdn/shop/files/IMG_8297_360x.jpg?v=1741957536",
+      "type": "Metal",
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "11",
+      "name": "Silver Black Nova Metal Watch",
+      "price": 1000,
+      "oldPrice": 1600,
+      "image": "https://miyoko-watches.com/cdn/shop/files/F1EFF32A-2E4D-471F-BDA2-45F5BA284026_360x.jpg?v=1753362101",
+      "type": "Metal",
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "12",
+      "name": "Blue Numeric Men Leather Watch",
+      "price": 1500,
+      "oldPrice": 2000,
+      "image": "https://miyoko-watches.com/cdn/shop/files/3A1B862F-CB35-48EB-92CB-04A64302EB22_360x.jpg?v=1720104589",
+      "type": "Leather",
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "13",
+      "name": "Silver Black Celva Metal Watch",
+      "price": 1000,
+      "oldPrice": 1200,
+      "image": "https://miyoko-watches.com/cdn/shop/files/030E8003-C4E6-425F-BA52-85811D26856E_360x.jpg?v=1756042470",
+      "type": "Metal",
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "14",
+      "name": "Silver Black Ivory Dial Men Metal Watch",
+      "price": 1200,
+      "oldPrice": 1600,
+      "image": "https://miyoko-watches.com/cdn/shop/files/A61C6533-6B2A-41D7-A40D-8F72268B3EA4_360x.jpg?v=1745240814",
+      "type": "Metal",
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "15",
+      "name": "Silver GENTIME Men Metal Watch",
+      "price": 1600,
+      "oldPrice": 1800,
+      "image": "https://miyoko-watches.com/cdn/shop/files/36CFCCA3-8EF7-4CAC-A34F-7191FFCBEBD8_360x.jpg?v=1733185884",
+      "type": "Metal",
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "16",
+      "name": "Silver Blossom Metal Watch",
+      "price": 900,
+      "oldPrice": 1300,
+      "image": "https://miyoko-watches.com/cdn/shop/files/IMG_5529_360x.jpg?v=1739833110",
+      "type": "Metal",
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "17",
+      "name": "Silver Black Milan Metal Watch",
+      "price": 1900,
+      "oldPrice": 2000,
+      "image": "https://miyoko-watches.com/cdn/shop/files/41292653-1AF8-49C1-99EB-8475493E96B9_360x.jpg?v=1737612048",
+      "type": "Metal",
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "18",
+      "name": "Black Numeric Men Leather Watch",
+      "price": 900,
+      "oldPrice": 1300,
+      "image": "https://miyoko-watches.com/cdn/shop/files/8D710925-7404-461E-B81B-378268441E48_360x.jpg?v=1720104546",
+      "type": "Leather",
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "19",
+      "name": "New Chapter Silver Set",
+      "price": 800,
+      "oldPrice": 1500,
+      "image": "https://miyoko-watches.com/cdn/shop/files/63C79E5C-6451-4A63-9B06-5826383DFF91_1024x1024@2x.jpg?v=1747826628",
+      "Sets": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "20",
+      "name": "Happy Endings Gold Set",
+      "price": 900,
+      "oldPrice": 1500,
+      "image": "https://miyoko-watches.com/cdn/shop/files/12A684F6-9B01-49E3-B60A-84F4D9EB74E6_1024x1024@2x.jpg?v=1747830829",
+      "Sets": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "21",
+      "name": "Happiest Version Silver Set",
+      "price": 1000,
+      "oldPrice": 2000,
+      "image": "https://miyoko-watches.com/cdn/shop/files/1EE9BD3B-1CBD-447F-9A08-DF3070F75E7F_360x.jpg?v=1748080916",
+      "Sets": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "22",
+      "name": "Emerald Gold Set",
+      "price": 1300,
+      "oldPrice": 2100,
+      "image": "https://miyoko-watches.com/cdn/shop/files/38AB4E0C-01D0-40AC-A699-3B91240D80B5_360x.jpg?v=1748806582",
+      "Sets": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "23",
+      "name": "Emerald Gold Set",
+      "price": 1300,
+      "oldPrice": 1500,
+      "image": "https://miyoko-watches.com/cdn/shop/files/63C79E5C-6451-4A63-9B06-5826383DFF91_1024x1024@2x.jpg?v=1747826628",
+      "Sets": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "24",
+      "name": "The Gold Bow Set",
+      "price": 1600,
+      "oldPrice": 2000,
+      "image": "https://miyoko-watches.com/cdn/shop/files/64230BE7-2F54-4525-AF71-26A44C448A99_1024x1024@2x.jpg?v=1751811076",
+      "Sets": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "25",
+      "name": "Gold Luxuries Set",
+      "price": 1000,
+      "oldPrice": 1550,
+      "image": "https://miyoko-watches.com/cdn/shop/files/86EC9391-ABAF-49B5-8FC7-78FB5C2C51B8_1024x1024@2x.png?v=1758251904",
+      "Sets": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "26",
+      "name": "Gold Luxuries Set",
+      "price": 1000,
+      "oldPrice": 1500,
+      "image": "https://miyoko-watches.com/cdn/shop/files/172E398E-2105-4780-A65B-925B6FB6D551_1024x1024@2x.jpg?v=1753195843",
+      "Sets": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "27",
+      "name": "Gold statment Set",
+      "price": 900,
+      "oldPrice": 1500,
+      "image": "https://miyoko-watches.com/cdn/shop/files/21A8465E-4117-4C12-9A97-169B181724E1_1024x1024@2x.jpg?v=1748796300",
+      "Sets": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "28",
+      "name": "Rosegold Music Set",
+      "price": 1050,
+      "oldPrice": 1500,
+      "image": "https://miyoko-watches.com/cdn/shop/files/4C9D613C-D692-462E-A3B8-2782228CA4C0_1024x1024@2x.jpg?v=1757165886",
+      "Sets": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "29",
+      "name": "Gold Morning Set",
+      "price": 1500,
+      "oldPrice": 2100,
+      "image": "https://miyoko-watches.com/cdn/shop/files/BAB86C28-72C1-4758-A27F-02143BA837E1_1024x1024@2x.png?v=1757933682",
+      "Sets": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "30",
+      "name": "Beige Emeralda Sunglasses",
+      "price": 650,
+      "oldPrice": 900,
+      "image": "https://miyoko-watches.com/cdn/shop/files/D50C5CEB-3D82-47C9-A5D3-6F190937E53D_1024x1024@2x.jpg?v=1751660308",
+      "Sunglasses": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "31",
+      "name": "Beige Prism Sunglasses",
+      "price": 800,
+      "oldPrice": 1000,
+      "image": "https://miyoko-watches.com/cdn/shop/files/IMG_9394_360x.jpg?v=1744666975",
+      "Sunglasses": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "32",
+      "name": "Black 101 Sunglasses",
+      "price": 500,
+      "oldPrice": 700,
+      "image": "https://miyoko-watches.com/cdn/shop/files/840AEAD8-8969-4B49-8EAB-905E2CF840FE_1024x1024@2x.jpg?v=1745432091",
+      "Sunglasses": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "33",
+      "name": "Black Greece Sunglasses",
+      "price": 500,
+      "oldPrice": 1000,
+      "image": "https://miyoko-watches.com/cdn/shop/files/0EAD2BB7-D6A2-4C21-95F7-781FB7C86D91_1024x1024@2x.jpg?v=1745993515",
+      "Sunglasses": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "34",
+      "name": "Black Grey La Casa Sunglasses",
+      "price": 500,
+      "oldPrice": 1200,
+      "image": "https://miyoko-watches.com/cdn/shop/files/57254C6D-11A5-402C-8FF2-5B98FCA12DCE_1024x1024@2x.jpg?v=1745993542",
+      "Sunglasses": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "35",
+      "name": "Black Prism Sunglasses",
+      "price": 650,
+      "oldPrice": 1000,
+      "image": "https://miyoko-watches.com/cdn/shop/files/IMG_9395_1024x1024@2x.jpg?v=1744666975",
+      "Sunglasses": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "36",
+      "name": "White Emeralda Sunglasses",
+      "price": 800,
+      "oldPrice": 1200,
+      "image": "https://miyoko-watches.com/cdn/shop/files/E48A3A27-244B-4368-B7F2-6A1D0F77B8A5_1024x1024@2x.jpg?v=1751660380",
+      "Sunglasses": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "37",
+      "name": "Gold Luxuries Set",
+      "price": 1000,
+      "oldPrice": 1650,
+      "image": "https://miyoko-watches.com/cdn/shop/files/172E398E-2105-4780-A65B-925B6FB6D551_360x.jpg?v=1753195843",
+      "luxuriesSets": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "38",
+      "name": "Gold Luxuries Set",
+      "price": 1000,
+      "oldPrice": 1650,
+      "image": "https://miyoko-watches.com/cdn/shop/files/86EC9391-ABAF-49B5-8FC7-78FB5C2C51B8_360x.png?v=1758251904",
+      "luxuriesSets": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "39",
+      "name": "Silver Blue Luxuries Set",
+      "price": 1000,
+      "oldPrice": 1500,
+      "image": "https://miyoko-watches.com/cdn/shop/files/0B2D11CE-4139-449B-8964-A657D3A8564B_360x.jpg?v=1758251246",
+      "luxuriesSets": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "40",
+      "name": "Gold White Luxuries Set",
+      "price": 1200,
+      "oldPrice": 1600,
+      "image": "https://miyoko-watches.com/cdn/shop/files/214AEA7B-71C2-499D-AB9F-BBA7C23EEC2E_360x.jpg?v=1758251246",
+      "luxuriesSets": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "41",
+      "name": "Gold Pink White Luxuries Set",
+      "price": 1000,
+      "oldPrice": 1600,
+      "image": "https://miyoko-watches.com/cdn/shop/files/20EB6807-F187-49AD-9343-B005F1D0D6FE_360x.jpg?v=1758251246",
+      "luxuriesSets": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "42",
+      "name": "Rose Gold Luxuries Set",
+      "price": 1000,
+      "oldPrice": 1600,
+      "image": "https://miyoko-watches.com/cdn/shop/files/02E85B63-0C34-4127-B0C9-C1771E5190D3_360x.jpg?v=1758251247",
+      "luxuriesSets": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "43",
+      "name": "Gold White Blue Space Colors Luxuries Set",
+      "price": 1000,
+      "oldPrice": 1700,
+      "image": "https://miyoko-watches.com/cdn/shop/files/07B4097C-E274-486F-9B79-982B7BCEEC07_360x.jpg?v=1758251246",
+      "luxuriesSets": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    },
+    {
+      "id": "44",
+      "name": "Silver Green Luxuries Set",
+      "price": 1000,
+      "oldPrice": 1600,
+      "image": "https://miyoko-watches.com/cdn/shop/files/AF883582-6D84-40D9-AE10-00F4A771C3DB_360x.jpg?v=1758251246",
+      "luxuriesSets": true,
+      "paragraph": "Crafted with a vintage-inspired design, this Gold White Vintage Metal Watch is the epitome of classic elegance. Made with high-quality materials, it is a timeless timepiece that exudes sophistication and style. Perfect for any occasion, this watch is a must-have for every fashion-forward individual."
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
